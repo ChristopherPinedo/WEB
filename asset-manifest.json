@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.js": "/static/js/main.e37a5c98.js",
-    "static/js/453.e5407da2.chunk.js": "/static/js/453.e5407da2.chunk.js",
-    "static/media/ProfileFace1.jpeg": "/static/media/ProfileFace1.b41542ea3bb4c45829bc.jpeg",
-    "index.html": "/index.html",
-    "main.e37a5c98.js.map": "/static/js/main.e37a5c98.js.map",
-    "453.e5407da2.chunk.js.map": "/static/js/453.e5407da2.chunk.js.map"
+    "main.js": "/WEB/static/js/main.1bd5fcfb.js",
+    "static/js/453.e5407da2.chunk.js": "/WEB/static/js/453.e5407da2.chunk.js",
+    "static/media/ChristopherPinedoCV.pdf": "/WEB/static/media/ChristopherPinedoCV.e6f45877d4038268d9b7.pdf",
+    "static/media/ProfileFace1.jpeg": "/WEB/static/media/ProfileFace1.b41542ea3bb4c45829bc.jpeg",
+    "index.html": "/WEB/index.html",
+    "main.1bd5fcfb.js.map": "/WEB/static/js/main.1bd5fcfb.js.map",
+    "453.e5407da2.chunk.js.map": "/WEB/static/js/453.e5407da2.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.e37a5c98.js"
+    "static/js/main.1bd5fcfb.js"
   ]
 }
